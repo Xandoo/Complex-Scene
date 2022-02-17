@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Alex/Scenes/Complex Scene.unity
+    guid: 7c327d6f94217eb47ad70321c5b2f038
   m_configObjects: {}
